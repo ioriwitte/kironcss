@@ -1,0 +1,71 @@
+main::before {
+ background: #ffffff !important;
+}
+
+.card-title {
+ color: #113893;
+ font-weight: 600;
+}
+
+.card {
+ background: #ffffff;
+}
+
+button.btn.btn-info {
+ background:#ff5a00 !important;
+ border-color:#ff5a00 !important;
+}
+
+button.btn.btn-info:hover {
+ background:#ff5a00 !important;
+ border-color:#ff5a00 !important;
+}
+
+button.btn.btn-info:disabled {
+ background: gray !important;
+ border-color: gray !important;
+}
+
+button.btn.btn-info:disabled :hover{
+ background: gray !important;
+ border-color: gray !important;
+}
+
+a {
+ color: #ff5a00 !important;
+ text-decoration: none !important;
+}
+
+.modal-title.h4 {
+    font-size: 18px !important;
+    color: black !important;
+}
+
+.model-body.p {
+    margin-bottom: 12px !important;
+    font-family: "Roboto", sans-serif !important;
+    font-size: 15px !important;
+    line-height: 22px !important;
+    color: #5c5c5c !important;
+}
+
+.modal-content {
+    background-color: #b1b1b1 !important;
+}
+
+button.btn.btn-default {
+    border-width: 1px !important;
+    color: #ff6a19 !important;
+    background: transparent !important;
+    border-color: rgb(232, 28, 131) !important;
+}
+
+button.btn.btn-primary {
+    background: #ff6a19 !important;
+    border-color: #ff7a32 !important;
+}
+
+button.btn.btn-primary:hover {
+    background: #ff6a19 !important;
+    border-color: #ff7a32 !important;
+}
