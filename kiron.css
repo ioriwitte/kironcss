@@ -3,12 +3,12 @@ main::before {
 }
 
 .card-title {
- color: #113893;
+ color: #ffffff;
  font-weight: 600;
 }
 
 .card {
- background: #ffffff;
+ background: #113893;
 }
 
 button.btn.btn-info {
