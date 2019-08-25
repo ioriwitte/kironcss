@@ -3,7 +3,7 @@ main::before {
 }
 
 .card-title {
- color: #113893;
+ color: #2A3481;
  font-weight: 600;
 }
 
@@ -12,13 +12,13 @@ main::before {
 }
 
 button.btn.btn-info {
- background:#ff5a00 !important;
- border-color:#ff5a00 !important;
+ background:#f16334 !important;
+ border-color:#f16334 !important;
 }
 
 button.btn.btn-info:hover {
- background:#ff5a00 !important;
- border-color:#ff5a00 !important;
+ background:#f16334 !important;
+ border-color:#f16334 !important;
 }
 
 button.btn.btn-info:disabled {
@@ -32,7 +32,7 @@ button.btn.btn-info:disabled :hover{
 }
 
 a {
- color: #ff5a00 !important;
+ color: #f16334 !important;
  text-decoration: none !important;
 }
 
@@ -46,26 +46,26 @@ a {
     font-family: "Roboto", sans-serif !important;
     font-size: 15px !important;
     line-height: 22px !important;
-    color: #5c5c5c !important;
+    color: #5093E3 !important;
 }
 
 .modal-content {
-    background-color: #b1b1b1 !important;
+    background-color: #F9F9F9 !important;
 }
 
 button.btn.btn-default {
     border-width: 1px !important;
-    color: #ff6a19 !important;
+    color: #55D7D2 !important;
     background: transparent !important;
-    border-color: rgb(232, 28, 131) !important;
+    border-color: rgb(58,	147, 142) !important;
 }
 
 button.btn.btn-primary {
-    background: #ff6a19 !important;
-    border-color: #ff7a32 !important;
+    background: #55D7D2 !important;
+    border-color: #45ADA8 !important;
 }
 
 button.btn.btn-primary:hover {
-    background: #ff6a19 !important;
-    border-color: #ff7a32 !important;
+    background: #55D7D2 !important;
+    border-color: #45ADA8 !important;
 }
